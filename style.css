@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.salom{
+    font-size: 20px;
+    color: #415167;
+    text-align: center;
+}
+.box{
+    font-size: 30px;
+    color: #415167;
+    text-align: center;
+}
+.fo{
+    font-size: 20px;
+    color: #C7A17A;
+}
+.fp{
+    font-size: 14px;
+    color: #415167;
+    text-decoration:line-through;
+}
+.as{
+    font-size: 24px; 
+    width: 239px;
+    height: 28px;
+    margin-top: 20px;
+}
+.ad{
+    font-size: 16px;
+    width: 276px;
+    height: 44px;
+    margin-top: 20px;
+}
+.rtx{
+    width: 134px;
+    height: 32px;
+    background-color: #C7A17A;
+    border-radius: 19px ;
+    color: white;
+
+}
+.qwe{
+    width: 66px;
+    height: 22px;
+    color: #415167;
+}
+.bola{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
